@@ -1,0 +1,1 @@
+print(open("24ckab(2)&2.txt").readline().count("TIK")+open("24ckab(2)&2.txt").readline().count("TOK"))

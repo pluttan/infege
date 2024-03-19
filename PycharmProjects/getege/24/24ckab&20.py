@@ -1,0 +1,1 @@
+print(open("24ckab&20.txt").readline().count("XYZ"))

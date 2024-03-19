@@ -1,0 +1,1 @@
+print(max(map(len,open("24ckab&3.txt").readline().replace("D"," ").split())))
